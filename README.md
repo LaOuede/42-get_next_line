@@ -81,10 +81,8 @@ gcc -D BUFFER_SIZE=<nbr> main.c get_next_line.c get_next_line_utils.c
 ```bash
 The output diplays the whole file
 ```
-
-<!---
 ---
+
 <div align="center">
-To look at [my next 42 project](https://github.com/LaOuede/Push_Swap) !
+To look at [my next 42 project](https://github.com/LaOuede/Born2BeRoot) !
 </div>
--->
