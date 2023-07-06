@@ -40,7 +40,7 @@ I've acquired a lot of basic knowledge on C programming :
 
 <h3 align="left">Usage 🛠</h3>
 
-- main.c :
+1- main.c :
 ```c
 #include "get_next_line.h"
 # include <unistd.h> //write
@@ -65,19 +65,19 @@ int	main(void)
 	return (0);
 }
 ```
-- compilation :
+2- compilation :
 ```bash
 gcc main.c get_next_line.c get_next_line_utils.c
 ```
-- buffer :
+3- buffer :
 ```bash
 gcc -D BUFFER_SIZE=<nbr> main.c get_next_line.c get_next_line_utils.c
 ```
-- execution :
+4- execution :
 ```bash
 ./a.out <filename>
 ```
-- return value :
+5- return value :
 ```bash
 The output diplays the whole file
 ```
