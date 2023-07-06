@@ -17,7 +17,7 @@ Go to [42 Québec](https://42quebec.com/) to discover the course ! 👈
 
 ---
 
-<h3 align="left">What I've learned</h3>
+<h3 align="left">What I've learned 📚</h3>
 
 I've acquired a lot of basic knowledge on C programming :
 - String manipulation
@@ -31,14 +31,14 @@ I've acquired a lot of basic knowledge on C programming :
 
 ---
 
-<h3 align="left">If I had to do it all over again</h3>
+<h3 align="left">If I had to do it all over again 🗒</h3>
 
 - I would improve my memory handling by minimizing memory allocation
 - I would use free_null instead of free to set pointers to NULL to prevent accidental access to freed memory
 
 ---
 
-<h3 align="left">Usage</h3>
+<h3 align="left">Usage 🛠</h3>
 
 - main.c :
 ```c
